@@ -3,7 +3,9 @@ DecifradorMesajes
 
 Implementación para decifrar mensajes en RSA conociendo la llave publica y mediante un diccionario de los primeros 50 millones de numeros primos
 
+El algoritmo fue implementado a partir de la explicación de este video: 
 
+https://www.youtube.com/watch?v=HRUfPca7uec
 
 Uso
 ===
