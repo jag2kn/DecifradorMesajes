@@ -32,6 +32,6 @@ Ejecución
 =========
 
 <pre>
-python decifradorMensajes.py archivoMensajes.py
+python decifradorMensajesRSA.py archivoMensajes.py
 </pre>
 
