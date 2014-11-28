@@ -212,7 +212,6 @@ print "El los factores de "+str(n)+" son : "+str(x)+" y "+str(n/x)
 '''
 
 
-print "Analizando ", sys.argv
 if len(sys.argv)>1:
 	decifrarArchivo(sys.argv[1])
 else:
