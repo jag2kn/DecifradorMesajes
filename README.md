@@ -7,6 +7,11 @@ El algoritmo fue implementado a partir de la explicación de este video:
 
 https://www.youtube.com/watch?v=HRUfPca7uec
 
+
+La base de datos de numeros primos es descargada de:
+
+https://primes.utm.edu/lists/small/millions/
+
 Uso
 ===
 Descargar la base de datos de numeros primos
